@@ -1,0 +1,1 @@
+.htaccess file not needed when running php server, only for Apache servers.
