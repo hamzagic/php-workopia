@@ -1,0 +1,16 @@
+{
+  "name": "hamzagic/php-workopia",
+  "description": "Job listing application",
+  "authors": [
+    {
+      "name": "Francis Hamzagic",
+      "email": "francishamzagic@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Framework\\": "Framework/",
+      "App\\": "App/"
+    }
+  }
+}
